@@ -1,1 +1,7 @@
 /* your styles go here */
+.sticky{
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+}
